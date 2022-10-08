@@ -7,7 +7,7 @@ This is the template including quick reading that I usually use.
 It can gurantee you to get started right away.  
 
 ## HP_plus.cpp
-Input two integers, no matter how big it is.  
+Input two integers, no matter how big they are.  
 Out put the sum of them.  
 
 ## calc_determinant_optimised.cpp
