@@ -10,6 +10,11 @@ It can gurantee you to get started right away.
 Input two integers, no matter how big it is.
 Out put the sum of them.
 
+## calc_determinant_optimised.cpp
+This is a better version than calc_determinant.cpp (the one listed below).
+Its input format is the same as its origin version, which means that you should input an integer $n$ before yor determinant indicating its size.
+This version is better because its time complexity is $O(n^2)$, much faster than the origin version $O(n!)$
+
 ## calc_determinant.cpp
 Input an integer $n$ first, indicating the order of the determinant you want to calculate. Then input your determinant.
 The output would be the value of your determinant.
